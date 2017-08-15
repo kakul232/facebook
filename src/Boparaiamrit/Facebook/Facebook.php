@@ -1,5 +1,7 @@
 <?php namespace Boparaiamrit\Facebook;
 
+use Boparaiamrit;
+
 /**
  * Copyright 2011 Facebook, Inc.
  *
